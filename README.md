@@ -1,3 +1,4 @@
 # practice-1
 My first repository.
-## hello guys.
+Everyday is beautiful.
+### hello guys !!
